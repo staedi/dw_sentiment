@@ -1,0 +1,9 @@
+listed,2022_W43,2022_W44,group
+NYSE,5.051184342934031,0.13581076299101025,Adjusted Price wt. Sentiment Score
+NASDAQ,15.0,15.591383469764674,Adjusted Price wt. Sentiment Score
+NYSE,2.7099728015045788,8.522682060519179,Market Capitalization wt. Sentiment Score
+NASDAQ,15.0,15.591383469764674,Market Capitalization wt. Sentiment Score
+NASDAQ,15.0,15.591383469764674,Transaction Volume wt. Sentiment Score
+NYSE,13.140126647396965,13.172899039654789,Transaction Volume wt. Sentiment Score
+NYSE,9.954906420772522,12.302976470058946,Transaction Amount wt. Sentiment Score
+NASDAQ,15.0,15.591383469764674,Transaction Amount wt. Sentiment Score
