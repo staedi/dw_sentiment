@@ -1,0 +1,8 @@
+listed,2022_W42,2022_W43,group
+KOSPI,9.02858764812541,8.809747118922486,Adjusted Price wt. Sentiment Score
+KOSDAQ,15.259894802307196,15.61812003705746,Adjusted Price wt. Sentiment Score
+KOSPI,7.279679010926108,13.360453276219832,Market Capitalization wt. Sentiment Score
+KOSDAQ,15.259894802307196,15.61812003705746,Market Capitalization wt. Sentiment Score
+KOSPI,15.0,15.115024790605178,Transaction Volume wt. Sentiment Score
+KOSDAQ,15.259894802307196,2.737408566111527,Transaction Amount wt. Sentiment Score
+KOSPI,9.447697266713199,15.115024790605178,Transaction Amount wt. Sentiment Score
