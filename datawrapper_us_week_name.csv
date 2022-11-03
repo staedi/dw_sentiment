@@ -1,101 +1,101 @@
-name,2022_W42,2022_W43,group
-Advanced Micro Devices,0.006000431145515489,0.22368771375063184,Adjusted Price wt. Sentiment Score
-Albertsons Companies,10.300602791878172,0.3451776649746156,Adjusted Price wt. Sentiment Score
-Li Auto ,3.4883720930232567,0.2902932254802826,Adjusted Price wt. Sentiment Score
-HashiCorp,0.49019080892233285,2.3176565439397994,Adjusted Price wt. Sentiment Score
-Shopify ,1.2591295303501933,5.243008022515044,Adjusted Price wt. Sentiment Score
-Gold Fields ,0.9204476093591049,0.2522889114954226,Adjusted Price wt. Sentiment Score
-PayPal,0.04636303683611508,0.16481906075249472,Adjusted Price wt. Sentiment Score
-UBS Group ,0.16578704638794206,0.5353712640466199,Adjusted Price wt. Sentiment Score
-Best Buy,0.048002992803488284,0.15428689565551176,Adjusted Price wt. Sentiment Score
-Novartis ,0.04211500636353086,0.12974129353233804,Adjusted Price wt. Sentiment Score
-Walgreens Boots Alliance,0.9792694140265771,2.9240157151216253,Adjusted Price wt. Sentiment Score
-Comcast ,0.18337675943039825,0.5057880676758676,Adjusted Price wt. Sentiment Score
-Southwest Airlines ,0.3563321133835658,0.9817246740820467,Adjusted Price wt. Sentiment Score
-Coca-Cola ,1.0331693491710516,2.743586972560116,Adjusted Price wt. Sentiment Score
-State Street ,1.6782538712006274,4.384372283529532,Adjusted Price wt. Sentiment Score
-Morgan Stanley,0.0958253771036298,0.24783633111153233,Adjusted Price wt. Sentiment Score
-General Motors ,0.6948937068373626,1.68535461817091,Adjusted Price wt. Sentiment Score
-Equinor ,2.49768030366935,1.0362716153521734,Adjusted Price wt. Sentiment Score
-Cisco Systems,0.12536991714255583,0.3006443234603666,Adjusted Price wt. Sentiment Score
-KKR,0.09096632042807676,0.2174721721463923,Adjusted Price wt. Sentiment Score
-Raymond James Financial,0.08235596436666535,0.19369915485038652,Adjusted Price wt. Sentiment Score
-HSBC,3.0353713860112497,1.3531401393967162,Adjusted Price wt. Sentiment Score
-Alphabet ,0.3932274026428398,0.8762168199870425,Adjusted Price wt. Sentiment Score
-Ford Motor ,0.7410334720444596,1.6480001530731894,Adjusted Price wt. Sentiment Score
-NIKE,0.27755443265694757,0.5577671366967346,Adjusted Price wt. Sentiment Score
-Advanced Micro Devices,0.03425032081166271,1.276804244860238,Market Capitalization wt. Sentiment Score
-CNH Industrial ,1.9659172167403949,12.159188518646657,Market Capitalization wt. Sentiment Score
-HashiCorp,0.9042425279634118,4.275322127827009,Market Capitalization wt. Sentiment Score
-Best Buy,0.003919864287225235,0.012598874714805966,Market Capitalization wt. Sentiment Score
-Southwest Airlines ,0.15276469241020252,0.4208794611397132,Market Capitalization wt. Sentiment Score
-Spotify,1.8564377284749245,5.041657853672476,Market Capitalization wt. Sentiment Score
-Tractor Supply ,0.08681009913164776,0.21487963177234962,Market Capitalization wt. Sentiment Score
-Bank of Montreal,0.10572272655148178,0.2597031385829179,Market Capitalization wt. Sentiment Score
-General Motors ,1.2496547364755473,3.030839624125619,Market Capitalization wt. Sentiment Score
-Lyft,2.6971170976889707,6.144080758096745,Market Capitalization wt. Sentiment Score
-Affirm,2.890049393065685,6.519055127978044,Market Capitalization wt. Sentiment Score
-Coinbase Global,0.04796192068707004,0.10350676518355323,Market Capitalization wt. Sentiment Score
-Palantir,0.2417836982203359,0.48419390892569547,Market Capitalization wt. Sentiment Score
-Target ,3.581460096593167,6.9442071248164385,Market Capitalization wt. Sentiment Score
-Amazon.com,2.3231813724774315,4.330332133214016,Market Capitalization wt. Sentiment Score
-Citigroup ,2.0331917940922826,3.720973072059333,Market Capitalization wt. Sentiment Score
-FactSet Research Systems ,0.014927613863491984,0.027107702583355407,Market Capitalization wt. Sentiment Score
-Chipotle Mexican Grill,0.07432415317043431,0.13339376739599676,Market Capitalization wt. Sentiment Score
-CarMax,6.01047974611498,10.319686936892781,Market Capitalization wt. Sentiment Score
-Barclays ,2.7153715326476267,4.524072529616263,Market Capitalization wt. Sentiment Score
-Autoliv,2.7813553057873435,4.44425857094732,Market Capitalization wt. Sentiment Score
-American Airlines Group ,0.8119522161081087,1.2076018321172497,Market Capitalization wt. Sentiment Score
-APA ,10.6344533456097,15.6,Market Capitalization wt. Sentiment Score
-Yum China,15.83493497799204,10.834631827691613,Market Capitalization wt. Sentiment Score
-Delta Air Lines,5.4002367150278,7.816438844999563,Market Capitalization wt. Sentiment Score
-Affirm,0.10835133189344852,1.9874232061435084,Transaction Volume wt. Sentiment Score
-Li Auto ,0.9208141515931417,15.95,Transaction Volume wt. Sentiment Score
-Alibaba Group,0.9524138795973387,15.400696864111499,Transaction Volume wt. Sentiment Score
-Warner Music Group ,1.1531779902777461,15.766666666666666,Transaction Volume wt. Sentiment Score
-Eaton Corporation ,4.136697399657704,0.3242238539538821,Transaction Volume wt. Sentiment Score
-Pinduoduo ,1.2624005009888146,15.333333333333334,Transaction Volume wt. Sentiment Score
-CVS Health ,0.7151740550104179,7.628016663698272,Transaction Volume wt. Sentiment Score
-Starbucks ,1.669173857749235,15.817307692307692,Transaction Volume wt. Sentiment Score
-Spotify,1.0444922316051202,9.46040023553423,Transaction Volume wt. Sentiment Score
-International Paper ,15.0,2.1272985169192213,Transaction Volume wt. Sentiment Score
-Bilibili ,1.5450535157926464,9.759108889158261,Transaction Volume wt. Sentiment Score
-Target ,3.689770307854462,0.5995266296949388,Transaction Volume wt. Sentiment Score
-Dollar General ,1.8622760653244639,11.177395902118118,Transaction Volume wt. Sentiment Score
-Toyota Motor ,0.8005964013895537,0.14743147752076205,Transaction Volume wt. Sentiment Score
-Bath & Body Works,3.5208997120353795,0.6728538103785466,Transaction Volume wt. Sentiment Score
-Yum! Brands,2.883439893205929,15.069767441860465,Transaction Volume wt. Sentiment Score
-Baidu,3.0727667911590033,15.56338028169014,Transaction Volume wt. Sentiment Score
-United Parcel Service,0.9294333811864911,4.609202826407937,Transaction Volume wt. Sentiment Score
-Coca-Cola ,3.277339224991209,15.830007390983,Transaction Volume wt. Sentiment Score
-General Motors ,3.2343255800643664,15.615725092547883,Transaction Volume wt. Sentiment Score
-PulteGroup,3.2013834892292032,15.0,Transaction Volume wt. Sentiment Score
-Goldman Sachs Group,12.334683399596088,2.8460511301299656,Transaction Volume wt. Sentiment Score
-Weibo ,0.9688805457141346,4.0590264925175825,Transaction Volume wt. Sentiment Score
-General Electric ,2.023431251243574,8.315333928638623,Transaction Volume wt. Sentiment Score
-salesforce.com,13.854824132965163,3.4825656168234174,Transaction Volume wt. Sentiment Score
-CVS Health ,0.7117944387827239,13.10080578674942,Transaction Amount wt. Sentiment Score
-Kroger ,3.528485726065992,0.20153925924178398,Transaction Amount wt. Sentiment Score
-Spotify,0.973890296578679,15.560283687943262,Transaction Amount wt. Sentiment Score
-Alibaba Group,0.9822902901155798,15.400696864111499,Transaction Amount wt. Sentiment Score
-International Paper ,10.425377038012787,0.8983867159434403,Transaction Amount wt. Sentiment Score
-Dollar General ,1.3980938599627468,14.68816660520164,Transaction Amount wt. Sentiment Score
-XPeng ,1.4728862021112177,15.416666666666666,Transaction Amount wt. Sentiment Score
-Realty Income ,0.7008927361785329,7.257013372991562,Transaction Amount wt. Sentiment Score
-Infosys ,7.76464692147832,0.8061717294000762,Transaction Amount wt. Sentiment Score
-Li Auto ,1.589161019382879,14.435838514833488,Transaction Amount wt. Sentiment Score
-Pinduoduo ,1.4254283630681874,12.351473625870181,Transaction Amount wt. Sentiment Score
-Starbucks ,1.9299182469484424,15.817307692307692,Transaction Amount wt. Sentiment Score
-PulteGroup,1.982905699761051,15.0,Transaction Amount wt. Sentiment Score
-Coca-Cola ,2.365729819585086,15.830007390983,Transaction Amount wt. Sentiment Score
-United Parcel Service,1.4365637481069244,9.440853080620752,Transaction Amount wt. Sentiment Score
-Morningstar,0.045056887828624166,0.29467511766027815,Transaction Amount wt. Sentiment Score
-Equinor ,2.34295034296047,0.3741141560862807,Transaction Amount wt. Sentiment Score
-Carlyle Group ,0.8498481939465079,0.1424838167982816,Transaction Amount wt. Sentiment Score
-Gold Fields ,15.6,2.797370193522093,Transaction Amount wt. Sentiment Score
-Boeing ,0.20791707766435696,1.019901238475192,Transaction Amount wt. Sentiment Score
-Baidu,3.1791364094821586,15.56338028169014,Transaction Amount wt. Sentiment Score
-Credit Suisse Group ,2.820312419623921,0.5939977023053452,Transaction Amount wt. Sentiment Score
-Bilibili ,1.0096123903079306,4.782414947749729,Transaction Amount wt. Sentiment Score
-Goldman Sachs Group,15.648750523523663,3.4266043101973858,Transaction Amount wt. Sentiment Score
-Bank of Montreal,0.19421632135109335,0.04359687986016044,Transaction Amount wt. Sentiment Score
+name,2022_W43,2022_W44,roll,group
+Jabil ,1.2241840556447359,15.5,4.793138041733552,Adjusted Price wt. Sentiment Score
+GameStop ,0.23357773939615517,2.1103397880891483,0.7027682515694035,Adjusted Price wt. Sentiment Score
+Pinduoduo ,0.5493934463752258,4.92442154188138,6.094425000979479,Adjusted Price wt. Sentiment Score
+Amazon.com,4.457279765120586,0.662748493333545,4.034096444664714,Adjusted Price wt. Sentiment Score
+Carlyle Group ,0.17393988219169407,0.8188095711401031,0.2481873633329493,Adjusted Price wt. Sentiment Score
+Sony Group ,0.18038713583018548,0.6716324238101894,0.2130048899100937,Adjusted Price wt. Sentiment Score
+Snap ,0.05827613529653602,0.19578341356205142,0.11832822038977997,Adjusted Price wt. Sentiment Score
+Molson Coors Beverage ,0.3261879301106086,0.10063623025966345,0.10670604009256801,Adjusted Price wt. Sentiment Score
+Honda Motor,0.057686253791321224,0.17154976074983308,0.09032378978834307,Adjusted Price wt. Sentiment Score
+Nikola ,0.06857387763848714,0.19500696453444769,0.07593213363062291,Adjusted Price wt. Sentiment Score
+AMC Entertainment,0.038389677851786694,0.09544915029394103,0.04305712649937861,Adjusted Price wt. Sentiment Score
+Kroger ,0.21906991775127732,0.5014764216102502,0.21715315709210434,Adjusted Price wt. Sentiment Score
+HashiCorp,1.8157209786569477,0.8141592920353989,0.7928162415408639,Adjusted Price wt. Sentiment Score
+Morningstar,0.4932890038338681,0.9826410772757475,0.3824122995528945,Adjusted Price wt. Sentiment Score
+Chegg,0.03997047635269383,0.07664793050587622,0.03914722080281597,Adjusted Price wt. Sentiment Score
+3M ,2.810054658647256,5.319658119658121,2.0324281945763443,Adjusted Price wt. Sentiment Score
+Quest Diagnostics ,0.7256791333224449,1.3653437857259514,0.7041755130927103,Adjusted Price wt. Sentiment Score
+Tata Motors ,0.1685532002469645,0.3154146943815596,0.12860670919942363,Adjusted Price wt. Sentiment Score
+AstraZeneca ,0.7030918595967139,1.2952949962658704,0.6298952109783421,Adjusted Price wt. Sentiment Score
+Palantir,0.07021345934495676,0.12274727065341362,0.06957695127912657,Adjusted Price wt. Sentiment Score
+Meta Platforms,6.702686838772666,3.8913495799568336,6.9693201971228795,Adjusted Price wt. Sentiment Score
+Petrobras,0.22158723312486497,0.13002659765653052,0.2217120344411694,Adjusted Price wt. Sentiment Score
+Abiomed,9.193360760391545,15.0,11.041445903520081,Adjusted Price wt. Sentiment Score
+Arista Networks,9.745602881966516,15.666666666666666,13.063970120788301,Adjusted Price wt. Sentiment Score
+Intel ,0.14537493801444484,0.2323187073619566,0.108161717950191,Adjusted Price wt. Sentiment Score
+GameStop ,0.09448707877280266,0.8536765631435974,0.28428444986550133,Market Capitalization wt. Sentiment Score
+Monster Beverage ,0.18455306184690579,1.3042846879183276,0.4671953494785843,Market Capitalization wt. Sentiment Score
+Carlyle Group ,0.28654751459085037,1.3489019572568155,0.40886236796191644,Market Capitalization wt. Sentiment Score
+Snap ,0.3287629948524216,1.4068358576193751,0.9067461164407263,Market Capitalization wt. Sentiment Score
+Molson Coors Beverage ,0.14798525971685847,0.04565674354306062,0.04841050081497977,Market Capitalization wt. Sentiment Score
+Nikola ,0.014675220734356228,0.04173265896332552,0.01624993161003064,Market Capitalization wt. Sentiment Score
+Icahn Enterprises ,1.9539645024562877,5.535519820614832,2.849353331995924,Market Capitalization wt. Sentiment Score
+AMC Entertainment,0.03577894572882039,0.08895802620208748,0.04012897941493207,Market Capitalization wt. Sentiment Score
+Kroger ,3.5391465635528467,8.101516504241035,3.5081806647672082,Market Capitalization wt. Sentiment Score
+HashiCorp,3.311172090772848,1.4847113388671829,1.4457898779378002,Market Capitalization wt. Sentiment Score
+Charter Communications,1.086011435542872,0.5057699025772903,0.39794533453004055,Market Capitalization wt. Sentiment Score
+Morningstar,0.42218890714513124,0.8325138642624224,0.325169773991855,Market Capitalization wt. Sentiment Score
+Chegg,0.12029450062001676,0.23067837476849806,0.1178168440021329,Market Capitalization wt. Sentiment Score
+Tata Motors ,2.4631578947368418,4.609323308270676,1.8793984962406012,Market Capitalization wt. Sentiment Score
+Palantir,0.45005262711015537,0.7867826502717105,0.44597275225601507,Market Capitalization wt. Sentiment Score
+Honda Motor,2.9422143662662927,4.928134773261296,3.5102090088560685,Market Capitalization wt. Sentiment Score
+Abiomed,9.212426428430792,15.0,11.054330290519223,Market Capitalization wt. Sentiment Score
+FedEx ,1.5416177578752535,2.443572399421385,1.6325603528460628,Market Capitalization wt. Sentiment Score
+Royalty Pharma ,0.9666055058835448,1.5229252214999733,1.0517919623373104,Market Capitalization wt. Sentiment Score
+First Solar,3.25812533976191,5.130292252350161,4.042202583428457,Market Capitalization wt. Sentiment Score
+Uber,5.807196845140258,8.89565673447889,4.706252559636986,Market Capitalization wt. Sentiment Score
+Quest Diagnostics ,0.39177648629880596,0.5903509843952295,0.3434759892482103,Market Capitalization wt. Sentiment Score
+Credit Suisse Group ,0.44990538721286805,0.301667413160831,0.7125153308830205,Market Capitalization wt. Sentiment Score
+Rivian Automotive,0.7832956158924551,0.5519944525458185,0.358177548370866,Market Capitalization wt. Sentiment Score
+Arista Networks,11.151724182989899,15.666666666666666,13.60289354214442,Market Capitalization wt. Sentiment Score
+Royalty Pharma ,1.5320227393923982,0.01792266590384962,1.0569597251290703,Transaction Volume wt. Sentiment Score
+Abiomed,0.25520696018982336,15.0,3.8776034800949115,Transaction Volume wt. Sentiment Score
+Molson Coors Beverage ,0.26458550353332017,7.061271432191221,2.547939922998958,Transaction Volume wt. Sentiment Score
+Datadog,5.225884003471582,0.20394911194593177,2.554584050822742,Transaction Volume wt. Sentiment Score
+Micron,1.8240927207236348,0.08299376263152289,1.1188792770647649,Transaction Volume wt. Sentiment Score
+DaVita ,15.375,0.968153137026761,4.08578828425669,Transaction Volume wt. Sentiment Score
+Allstate ,15.3,1.39757049681158,7.999392624202895,Transaction Volume wt. Sentiment Score
+Walmart ,0.3209807478654489,3.0232904337923237,0.9664137647390119,Transaction Volume wt. Sentiment Score
+Intuit ,1.6107675065377112,15.125,6.703900920814135,Transaction Volume wt. Sentiment Score
+Alibaba Group,15.472996515679442,1.717763807713312,4.822004924909562,Transaction Volume wt. Sentiment Score
+Cameco ,15.0,1.6742293693062238,11.668557342326556,Transaction Volume wt. Sentiment Score
+Boeing ,15.58375,1.8765200374822513,5.567832048932644,Transaction Volume wt. Sentiment Score
+SoFi,1.8192322532222933,15.041666666666666,5.124840856583386,Transaction Volume wt. Sentiment Score
+Royal Bank of Canada,3.436921246431944,0.45587267304858003,1.8996884411032016,Transaction Volume wt. Sentiment Score
+Sony Group ,2.1632182958849056,15.206806282722512,5.668679137458821,Transaction Volume wt. Sentiment Score
+Netflix,4.5165167353943305,0.7016450650803215,6.594407176834073,Transaction Volume wt. Sentiment Score
+Rogers Communications ,4.27416146358432,0.6693846507596795,1.7286736185218596,Transaction Volume wt. Sentiment Score
+DoorDash,1.5764506277570411,9.560410195505208,5.442941277472528,Transaction Volume wt. Sentiment Score
+PulteGroup,15.0,2.5431212248625537,5.642643353625748,Transaction Volume wt. Sentiment Score
+Eli Lilly,2.6192847925654754,15.007991670497278,5.344910111013884,Transaction Volume wt. Sentiment Score
+Airbnb,1.9228391641832823,10.918442132451043,4.529811331347435,Transaction Volume wt. Sentiment Score
+General Motors ,12.961311178766119,2.49887366740511,7.549359832964927,Transaction Volume wt. Sentiment Score
+Pinduoduo ,12.847931065959136,2.47868711011983,4.448616017515479,Transaction Volume wt. Sentiment Score
+TotalEnergies ,7.725148398439982,1.5660355179244934,4.145967550944264,Transaction Volume wt. Sentiment Score
+Quest Diagnostics ,15.5,3.410225236754543,8.602556309188635,Transaction Volume wt. Sentiment Score
+Abiomed,0.1376620286783665,15.0,3.818831014339183,Transaction Amount wt. Sentiment Score
+Molson Coors Beverage ,0.07091175306602843,2.9713040161860382,1.0128739173099155,Transaction Amount wt. Sentiment Score
+Rivian Automotive,0.016767068007132607,0.6531674987750347,1.643316896351435,Transaction Amount wt. Sentiment Score
+Toyota Motor ,0.053666664961732814,1.6073723096062922,1.74425980277916,Transaction Amount wt. Sentiment Score
+Cameco ,15.0,0.6009768403975642,11.400244210099391,Transaction Amount wt. Sentiment Score
+SoFi,0.6897449163191579,15.041666666666666,4.277725353906035,Transaction Amount wt. Sentiment Score
+HashiCorp,8.805646594264548,0.4589159906657686,3.3738901833631316,Transaction Amount wt. Sentiment Score
+DoorDash,0.23916096163730313,4.385798160260211,2.2881631428551796,Transaction Amount wt. Sentiment Score
+DraftKings ,0.10752944389528976,1.9448035887675954,2.5240536597680543,Transaction Amount wt. Sentiment Score
+General Motors ,11.697100662458082,0.6801045727957673,4.620972723917944,Transaction Amount wt. Sentiment Score
+Alibaba Group,15.472996515679442,1.1379322192131076,4.72460555289612,Transaction Amount wt. Sentiment Score
+HSBC,6.7238050446040525,0.49985464626702575,3.866366619196446,Transaction Amount wt. Sentiment Score
+Royalty Pharma ,1.408059899888942,0.11316746472642747,0.9952893555443767,Transaction Amount wt. Sentiment Score
+Sony Group ,0.951462065412321,11.828516362079272,3.796088331281593,Transaction Amount wt. Sentiment Score
+Royal Bank of Canada,3.1851859608803403,0.26177708316478593,1.6014177680278188,Transaction Amount wt. Sentiment Score
+Carlyle Group ,0.1424838167982816,1.3851581340744896,0.8068345846914468,Transaction Amount wt. Sentiment Score
+Boeing ,15.58375,1.9346933653196539,5.378328879999229,Transaction Amount wt. Sentiment Score
+Paramount Global,1.0337135825327537,7.6366552118238085,2.569868549553591,Transaction Amount wt. Sentiment Score
+PulteGroup,15.0,2.1243652531458825,5.086196638374457,Transaction Amount wt. Sentiment Score
+Rogers Communications ,15.733333333333334,2.292255977799215,6.080174158155364,Transaction Amount wt. Sentiment Score
+Baidu,15.56338028169014,2.7511999516764085,5.831095451187386,Transaction Amount wt. Sentiment Score
+Fresenius Medical Care AG & Co. KGaA,0.9802515656582983,5.345564645821413,1.8265169442845024,Transaction Amount wt. Sentiment Score
+Wynn Resorts,2.9196167271439837,15.561797752808989,6.762663852806711,Transaction Amount wt. Sentiment Score
+Allstate ,15.3,3.0110875392533942,8.40277188481335,Transaction Amount wt. Sentiment Score
+Walmart ,0.7309826473280628,3.5510960409253163,1.2254352484481064,Transaction Amount wt. Sentiment Score
