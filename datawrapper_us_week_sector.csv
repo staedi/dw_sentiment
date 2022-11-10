@@ -1,73 +1,70 @@
 sector,Prev week,This week,Rolling,group
-Professional & Business Services,6.649827502608991,0.05473809002877633,3.2475041528656106,Adjusted Price wt. Sentiment Score
-Real Estate,5.469810632489603,0.7965703592274342,2.7278267833155883,Adjusted Price wt. Sentiment Score
-Pharmaceutical,7.598715563019107,1.9270358613135319,5.838977757914351,Adjusted Price wt. Sentiment Score
-Energy,2.8055959596821944,7.9372424497713885,4.939005981972333,Adjusted Price wt. Sentiment Score
-Insurance,4.399985429193912,12.328614883884024,7.280557834462105,Adjusted Price wt. Sentiment Score
-Banks,3.7720562522765158,9.705160937080615,4.081999761320581,Adjusted Price wt. Sentiment Score
-Technology,2.679614935394537,1.094768923597011,2.7611288444815485,Adjusted Price wt. Sentiment Score
-Automotive,4.196914623294507,2.0687096866730084,3.1644492243393403,Adjusted Price wt. Sentiment Score
-Food & Beverage,4.63376366543474,9.317572112376421,8.482589235960486,Adjusted Price wt. Sentiment Score
-Software,1.4329197634471933,0.7212595430805997,2.685250723901888,Adjusted Price wt. Sentiment Score
-Medical & Healthcare,11.143160746178701,6.0499304546176305,5.648708459300083,Adjusted Price wt. Sentiment Score
-Leisure & Travel,3.1146170436129936,5.263911186449907,2.369640043002857,Adjusted Price wt. Sentiment Score
-Gaming & Entertainment,1.1019218522915764,0.7334354656020329,3.363024470893063,Adjusted Price wt. Sentiment Score
-Utilities,10.63039822804135,7.104184584442984,4.433645703121083,Adjusted Price wt. Sentiment Score
-Biotechnology,1.2310418383613957,1.4689488171997636,3.384005276748721,Adjusted Price wt. Sentiment Score
-Shipping & Transportation,1.8538595093197903,2.0175864583486027,2.5662707536235763,Adjusted Price wt. Sentiment Score
-Non-Metal Materials,2.3058345033470684,2.202268503985213,2.0041586427287665,Adjusted Price wt. Sentiment Score
-Technology,0.9895074751556793,0.10193946523619091,1.1679679133667213,Market Capitalization wt. Sentiment Score
-Insurance,3.4427797075586737,10.410329879471405,5.301264146056967,Market Capitalization wt. Sentiment Score
-Real Estate,11.199213224104675,3.80063520675157,7.360770262849356,Market Capitalization wt. Sentiment Score
-Automotive,6.196600238616711,2.4352055366905927,4.988938568364799,Market Capitalization wt. Sentiment Score
-Retail,2.1065512305907097,4.584441500466152,2.322463754497195,Market Capitalization wt. Sentiment Score
-Utilities,5.480310634439981,2.6813637162481183,2.532985034786791,Market Capitalization wt. Sentiment Score
-Software,1.57575336710863,0.8323082148628075,2.560790926767258,Market Capitalization wt. Sentiment Score
-Pharmaceutical,7.266799069186419,3.9994361665279397,7.201321685067727,Market Capitalization wt. Sentiment Score
-Non-Metal Materials,1.0975558577153428,1.93555308194977,1.0137303046048611,Market Capitalization wt. Sentiment Score
-Banks,8.454526367358365,12.836441893830704,6.3803461260382575,Market Capitalization wt. Sentiment Score
-Biotechnology,0.9068012622383749,0.6352242593065501,0.6197769777816537,Market Capitalization wt. Sentiment Score
-Energy,0.6660480677319365,0.47886114769616556,0.6749998027524903,Market Capitalization wt. Sentiment Score
-Food & Beverage,5.9453930264515975,4.566400408069741,7.335771717479834,Market Capitalization wt. Sentiment Score
-Medical & Healthcare,7.285046797167222,8.786165816655114,5.71001459552458,Market Capitalization wt. Sentiment Score
-Consumer Cyclical,1.2966986712250699,1.1898213532855615,6.051105396598556,Market Capitalization wt. Sentiment Score
-Leisure & Travel,0.17497938988989944,0.16888671454732743,0.10842281058958785,Market Capitalization wt. Sentiment Score
-Technology,0.47583429660720133,0.016509509514084093,0.6266170530254326,Transaction Volume wt. Sentiment Score
-Energy,0.987629985219132,0.06117875356609238,0.47431562466829674,Transaction Volume wt. Sentiment Score
-Biotechnology,0.20038808874999392,0.047411175185309504,0.12925869246852253,Transaction Volume wt. Sentiment Score
-Food & Beverage,9.546372042785256,2.2612117766920945,6.771377346324973,Transaction Volume wt. Sentiment Score
-Consumer Cyclical,0.6147581282698265,2.0222713128178653,2.333237972567935,Transaction Volume wt. Sentiment Score
-Non-Metal Materials,2.097066566795343,6.138365530935058,2.375977058738923,Transaction Volume wt. Sentiment Score
-Metals & Mining,12.52340425531915,4.900961730518157,6.436523778104256,Transaction Volume wt. Sentiment Score
-Real Estate,7.997602520210293,3.7427492298651415,4.077154450919842,Transaction Volume wt. Sentiment Score
-Medical & Healthcare,6.058736703212958,9.70258338174057,5.428288959013676,Transaction Volume wt. Sentiment Score
-Automotive,4.536105448381385,2.8821139692487057,4.83821777081182,Transaction Volume wt. Sentiment Score
-Retail,3.335102605760959,4.963259773570515,2.329958191329008,Transaction Volume wt. Sentiment Score
-Software,3.772253479740592,5.447449516244523,2.880542376491583,Transaction Volume wt. Sentiment Score
-Internet,6.4764898905190105,4.62985937350272,2.8497397798574085,Transaction Volume wt. Sentiment Score
-Utilities,1.4984218751865643,1.932107685866932,1.0397569721402524,Transaction Volume wt. Sentiment Score
-Professional & Business Services,1.133886262905448,1.422355071701839,1.4437909825541786,Transaction Volume wt. Sentiment Score
-Banks,3.584577667984994,2.8955573513077,3.532940028043184,Transaction Volume wt. Sentiment Score
-Insurance,0.8368170942289549,0.7268501140597563,1.1116507922355234,Transaction Volume wt. Sentiment Score
-Gaming & Entertainment,2.296149785107687,2.5962985065787856,3.575120068944273,Transaction Volume wt. Sentiment Score
-Pharmaceutical,5.4728716059059686,5.888021435615142,6.170846116325906,Transaction Volume wt. Sentiment Score
-Consumer Cyclical,0.7013672422048979,0.020857928791185313,2.0714868829575432,Transaction Amount wt. Sentiment Score
-Technology,1.250688022632942,0.08546781751004183,1.3667529796837274,Transaction Amount wt. Sentiment Score
-Metals & Mining,11.483782840730846,1.5940279331408287,5.590507863617623,Transaction Amount wt. Sentiment Score
-Leisure & Travel,1.1602902557449137,0.2487376616188795,0.6074156845612408,Transaction Amount wt. Sentiment Score
-Professional & Business Services,4.112270743957214,0.9696336571680585,2.7380834695007783,Transaction Amount wt. Sentiment Score
-Pharmaceutical,4.706130731392653,1.1406134051255792,3.883470368059738,Transaction Amount wt. Sentiment Score
-Real Estate,8.312684319577054,2.021216197297837,6.438175434528375,Transaction Amount wt. Sentiment Score
-Food & Beverage,9.476649647915394,2.712576543949269,7.099121256826982,Transaction Amount wt. Sentiment Score
-Energy,0.405607788614767,0.15302292671958587,0.42950895734184424,Transaction Amount wt. Sentiment Score
-Biotechnology,0.24218143026749975,0.11864299509763437,0.2022361902231249,Transaction Amount wt. Sentiment Score
-Non-Metal Materials,6.790239700723115,13.594847775175642,5.939804939970822,Transaction Amount wt. Sentiment Score
-Insurance,4.0674149892936775,7.748425956426389,5.667227410561673,Transaction Amount wt. Sentiment Score
-Medical & Healthcare,12.074563614897441,6.383585848740352,6.097334206481869,Transaction Amount wt. Sentiment Score
-Automotive,4.267826021699671,2.8821139692487057,4.410113428868896,Transaction Amount wt. Sentiment Score
-Utilities,5.03645471371377,7.112631187691546,3.3371788931561754,Transaction Amount wt. Sentiment Score
-Internet,6.258684930501051,4.712257825743671,2.774829732818357,Transaction Amount wt. Sentiment Score
-Banks,3.7078846089100574,4.728375142625172,3.364721916206003,Transaction Amount wt. Sentiment Score
-Gaming & Entertainment,0.8068609100729509,0.9921504483287777,4.536130093532016,Transaction Amount wt. Sentiment Score
-Retail,2.843205950609964,3.2950496548872117,1.7883681512001521,Transaction Amount wt. Sentiment Score
-Shipping & Transportation,0.4477346152703343,0.4143419180213544,1.3952037153633776,Transaction Amount wt. Sentiment Score
+Professional & Business Services,6.64,0.07,3.27,Adjusted Price wt. Sentiment Score
+Real Estate,5.38,0.82,2.71,Adjusted Price wt. Sentiment Score
+Pharmaceutical,7.65,1.89,5.85,Adjusted Price wt. Sentiment Score
+Insurance,4.38,12.45,7.3,Adjusted Price wt. Sentiment Score
+Energy,2.85,7.96,4.96,Adjusted Price wt. Sentiment Score
+Banks,3.74,9.83,4.1,Adjusted Price wt. Sentiment Score
+Technology,2.69,1.11,2.77,Adjusted Price wt. Sentiment Score
+Food & Beverage,4.63,9.3,8.46,Adjusted Price wt. Sentiment Score
+Automotive,4.14,2.07,3.16,Adjusted Price wt. Sentiment Score
+Medical & Healthcare,11.09,6.12,5.65,Adjusted Price wt. Sentiment Score
+Software,1.39,0.77,2.68,Adjusted Price wt. Sentiment Score
+Leisure & Travel,3.05,5.29,2.37,Adjusted Price wt. Sentiment Score
+Gaming & Entertainment,1.08,0.7,3.34,Adjusted Price wt. Sentiment Score
+Utilities,10.57,7.22,4.45,Adjusted Price wt. Sentiment Score
+Biotechnology,1.24,1.41,3.39,Adjusted Price wt. Sentiment Score
+Shipping & Transportation,1.83,2.0,2.58,Adjusted Price wt. Sentiment Score
+Non-Metal Materials,2.25,2.28,2.0,Adjusted Price wt. Sentiment Score
+Technology,1.0,0.11,1.18,Market Capitalization wt. Sentiment Score
+Insurance,3.48,10.4,5.29,Market Capitalization wt. Sentiment Score
+Real Estate,11.21,3.77,7.33,Market Capitalization wt. Sentiment Score
+Automotive,6.13,2.41,4.97,Market Capitalization wt. Sentiment Score
+Retail,2.12,4.58,2.33,Market Capitalization wt. Sentiment Score
+Utilities,5.42,2.66,2.51,Market Capitalization wt. Sentiment Score
+Non-Metal Materials,1.06,1.97,1.02,Market Capitalization wt. Sentiment Score
+Pharmaceutical,7.31,3.98,7.22,Market Capitalization wt. Sentiment Score
+Software,1.56,0.86,2.57,Market Capitalization wt. Sentiment Score
+Biotechnology,0.94,0.61,0.63,Market Capitalization wt. Sentiment Score
+Banks,8.4,12.9,6.39,Market Capitalization wt. Sentiment Score
+Energy,0.63,0.42,0.66,Market Capitalization wt. Sentiment Score
+Food & Beverage,5.95,4.6,7.35,Market Capitalization wt. Sentiment Score
+Medical & Healthcare,7.25,8.79,5.7,Market Capitalization wt. Sentiment Score
+Leisure & Travel,0.16,0.19,0.11,Market Capitalization wt. Sentiment Score
+Consumer Cyclical,1.26,1.22,6.05,Market Capitalization wt. Sentiment Score
+Technology,0.5,0.02,0.64,Transaction Volume wt. Sentiment Score
+Food & Beverage,9.55,2.23,6.75,Transaction Volume wt. Sentiment Score
+Consumer Cyclical,0.61,2.08,2.33,Transaction Volume wt. Sentiment Score
+Non-Metal Materials,2.07,6.14,2.36,Transaction Volume wt. Sentiment Score
+Metals & Mining,12.45,4.91,6.42,Transaction Volume wt. Sentiment Score
+Real Estate,7.95,3.72,4.04,Transaction Volume wt. Sentiment Score
+Medical & Healthcare,6.0,9.7,5.4,Transaction Volume wt. Sentiment Score
+Automotive,4.51,2.85,4.82,Transaction Volume wt. Sentiment Score
+Retail,3.37,4.96,2.34,Transaction Volume wt. Sentiment Score
+Software,3.78,5.48,2.9,Transaction Volume wt. Sentiment Score
+Internet,6.48,4.61,2.85,Transaction Volume wt. Sentiment Score
+Utilities,1.55,1.94,1.05,Transaction Volume wt. Sentiment Score
+Professional & Business Services,1.16,1.44,1.44,Transaction Volume wt. Sentiment Score
+Banks,3.53,2.97,3.54,Transaction Volume wt. Sentiment Score
+Gaming & Entertainment,2.31,2.65,3.58,Transaction Volume wt. Sentiment Score
+Insurance,0.86,0.75,1.13,Transaction Volume wt. Sentiment Score
+Pharmaceutical,5.51,5.84,6.18,Transaction Volume wt. Sentiment Score
+Technology,1.24,0.09,1.36,Transaction Amount wt. Sentiment Score
+Metals & Mining,11.38,1.64,5.59,Transaction Amount wt. Sentiment Score
+Leisure & Travel,1.16,0.24,0.61,Transaction Amount wt. Sentiment Score
+Pharmaceutical,4.69,1.09,3.89,Transaction Amount wt. Sentiment Score
+Professional & Business Services,4.08,1.0,2.75,Transaction Amount wt. Sentiment Score
+Real Estate,8.23,2.02,6.4,Transaction Amount wt. Sentiment Score
+Food & Beverage,9.43,2.7,7.09,Transaction Amount wt. Sentiment Score
+Energy,0.37,0.14,0.41,Transaction Amount wt. Sentiment Score
+Biotechnology,0.25,0.1,0.2,Transaction Amount wt. Sentiment Score
+Non-Metal Materials,6.68,13.65,5.92,Transaction Amount wt. Sentiment Score
+Insurance,4.03,7.72,5.66,Transaction Amount wt. Sentiment Score
+Medical & Healthcare,11.94,6.32,6.04,Transaction Amount wt. Sentiment Score
+Automotive,4.19,2.85,4.39,Transaction Amount wt. Sentiment Score
+Utilities,5.0,7.1,3.32,Transaction Amount wt. Sentiment Score
+Internet,6.19,4.7,2.76,Transaction Amount wt. Sentiment Score
+Gaming & Entertainment,0.79,1.03,4.53,Transaction Amount wt. Sentiment Score
+Banks,3.7,4.77,3.37,Transaction Amount wt. Sentiment Score
+Retail,2.87,3.33,1.8,Transaction Amount wt. Sentiment Score
+Shipping & Transportation,0.41,0.38,1.39,Transaction Amount wt. Sentiment Score

@@ -1,7 +1,7 @@
 listed,Prev week,This week,Rolling,group
-KOSPI,4.816034083871166,0.9609621415116519,2.740321251706289,Adjusted Price wt. Sentiment Score
-KOSDAQ,1.9675250409195353,1.457568807339449,3.3303717742234755,Adjusted Price wt. Sentiment Score
-KOSPI,5.559224010048157,8.016695854994266,4.734348238872978,Market Capitalization wt. Sentiment Score
-KOSDAQ,0.8665886077704061,1.2167300290765906,1.3085448450670079,Transaction Volume wt. Sentiment Score
-KOSPI,6.05045240285097,8.016695854994266,4.8571553370736815,Transaction Volume wt. Sentiment Score
-KOSPI,4.684634992697016,8.016695854994266,4.515700984535193,Transaction Amount wt. Sentiment Score
+KOSPI,4.8,0.88,2.73,Adjusted Price wt. Sentiment Score
+KOSDAQ,1.95,1.5,3.34,Adjusted Price wt. Sentiment Score
+KOSPI,5.45,7.95,4.7,Market Capitalization wt. Sentiment Score
+KOSDAQ,0.88,1.22,1.3,Transaction Volume wt. Sentiment Score
+KOSPI,6.0,7.95,4.84,Transaction Volume wt. Sentiment Score
+KOSPI,4.65,7.95,4.5,Transaction Amount wt. Sentiment Score
