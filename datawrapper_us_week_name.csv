@@ -1,101 +1,126 @@
-name,Prev week,This week,Rolling,group
-Qorvo,0.04,3.45,0.87,Adjusted Price wt. Sentiment Score
-Uber,3.52,0.1,3.74,Adjusted Price wt. Sentiment Score
-Moderna,0.37,7.61,4.91,Adjusted Price wt. Sentiment Score
-Deutsche Bank Aktiengesellschaft,0.08,1.35,0.5,Adjusted Price wt. Sentiment Score
-TransUnion,1.65,0.12,0.86,Adjusted Price wt. Sentiment Score
-Anheuser-Busch InBev ,1.07,14.25,5.35,Adjusted Price wt. Sentiment Score
-Block,0.31,3.15,1.4,Adjusted Price wt. Sentiment Score
-Twilio ,4.8,0.48,4.38,Adjusted Price wt. Sentiment Score
-Tesla,4.58,0.65,3.44,Adjusted Price wt. Sentiment Score
-Advanced Micro Devices,0.04,0.25,0.1,Adjusted Price wt. Sentiment Score
-Stellantis ,0.12,0.02,0.1,Adjusted Price wt. Sentiment Score
-Shaw Communications ,0.7,0.14,0.31,Adjusted Price wt. Sentiment Score
-McDonald's ,1.6,7.95,8.33,Adjusted Price wt. Sentiment Score
-Jefferies Financial Group ,0.09,0.4,0.33,Adjusted Price wt. Sentiment Score
-Shell ,6.0,1.5,4.27,Adjusted Price wt. Sentiment Score
-Workday,3.49,12.45,5.73,Adjusted Price wt. Sentiment Score
-DoorDash,0.84,2.97,1.03,Adjusted Price wt. Sentiment Score
-Moody's ,3.28,11.25,5.92,Adjusted Price wt. Sentiment Score
-Sanofi,0.07,0.24,0.16,Adjusted Price wt. Sentiment Score
-S&P Global ,3.42,11.7,7.74,Adjusted Price wt. Sentiment Score
-Royal Bank of Canada,2.77,9.3,3.49,Adjusted Price wt. Sentiment Score
-Palo Alto Networks,13.2,4.01,6.46,Adjusted Price wt. Sentiment Score
-Netflix,4.28,13.2,6.52,Adjusted Price wt. Sentiment Score
-Viatris ,0.05,0.15,0.06,Adjusted Price wt. Sentiment Score
-Sea ,3.12,1.05,2.6,Adjusted Price wt. Sentiment Score
-Uber,2.44,0.05,1.88,Market Capitalization wt. Sentiment Score
-Moderna,0.22,5.64,2.32,Market Capitalization wt. Sentiment Score
-Deutsche Bank Aktiengesellschaft,0.84,12.0,4.57,Market Capitalization wt. Sentiment Score
-Anheuser-Busch InBev ,1.06,14.55,5.37,Market Capitalization wt. Sentiment Score
-Block,0.21,2.25,0.95,Market Capitalization wt. Sentiment Score
-Advanced Micro Devices,0.18,1.72,0.59,Market Capitalization wt. Sentiment Score
-Tesla,4.09,0.54,3.04,Market Capitalization wt. Sentiment Score
-Fox ,1.35,0.18,0.38,Market Capitalization wt. Sentiment Score
-Stellantis ,4.45,0.62,3.76,Market Capitalization wt. Sentiment Score
-Shaw Communications ,9.55,1.44,5.62,Market Capitalization wt. Sentiment Score
-McDonald's ,1.62,7.95,8.47,Market Capitalization wt. Sentiment Score
-DoorDash,0.28,1.21,0.4,Market Capitalization wt. Sentiment Score
-Shell ,6.32,1.5,4.71,Market Capitalization wt. Sentiment Score
-ING Groep ,3.6,15.0,7.51,Market Capitalization wt. Sentiment Score
-Moody's ,1.08,4.35,1.85,Market Capitalization wt. Sentiment Score
-Viatris ,4.05,15.0,7.96,Market Capitalization wt. Sentiment Score
-NIKE,7.77,2.14,5.71,Market Capitalization wt. Sentiment Score
-Sanofi,1.98,6.92,6.62,Market Capitalization wt. Sentiment Score
-Manulife Financial ,0.13,0.45,0.21,Market Capitalization wt. Sentiment Score
-Palo Alto Networks,12.75,3.71,6.2,Market Capitalization wt. Sentiment Score
-S&P Global ,3.42,11.7,7.85,Market Capitalization wt. Sentiment Score
-HP ,0.16,0.53,0.26,Market Capitalization wt. Sentiment Score
-National Grid ,3.91,12.45,5.96,Market Capitalization wt. Sentiment Score
-Domino's Pizza,0.1,0.31,0.13,Market Capitalization wt. Sentiment Score
-Netflix,4.23,12.9,6.41,Market Capitalization wt. Sentiment Score
-Uber,4.18,0.05,2.16,Transaction Volume wt. Sentiment Score
-Sumitomo Mitsui Financial Group,11.25,0.15,6.26,Transaction Volume wt. Sentiment Score
-Shaw Communications ,4.52,0.14,2.75,Transaction Volume wt. Sentiment Score
-Anheuser-Busch InBev ,0.11,1.8,0.86,Transaction Volume wt. Sentiment Score
-Viatris ,1.13,15.0,5.06,Transaction Volume wt. Sentiment Score
-Stellantis ,5.85,0.45,3.4,Transaction Volume wt. Sentiment Score
-Coinbase Global,1.05,12.0,3.58,Transaction Volume wt. Sentiment Score
-Sanofi,0.09,0.95,0.99,Transaction Volume wt. Sentiment Score
-Welltower ,1.5,15.0,4.88,Transaction Volume wt. Sentiment Score
-NetEase,15.0,1.5,8.0,Transaction Volume wt. Sentiment Score
-CVS Health ,6.96,0.7,3.23,Transaction Volume wt. Sentiment Score
-Lyft,0.59,5.85,2.11,Transaction Volume wt. Sentiment Score
-Deutsche Bank Aktiengesellschaft,0.34,2.55,2.34,Transaction Volume wt. Sentiment Score
-Apollo Global Management,4.8,0.72,1.55,Transaction Volume wt. Sentiment Score
-eBay ,9.64,1.46,3.86,Transaction Volume wt. Sentiment Score
-Weibo ,1.31,0.2,0.77,Transaction Volume wt. Sentiment Score
-Royal Caribbean Cruises ,14.4,2.26,5.71,Transaction Volume wt. Sentiment Score
-NVIDIA ,2.11,0.34,1.6,Transaction Volume wt. Sentiment Score
-Hertz Global,6.36,1.05,4.38,Transaction Volume wt. Sentiment Score
-Medtronic ,1.15,6.3,2.43,Transaction Volume wt. Sentiment Score
-EQT ,15.0,2.85,4.46,Transaction Volume wt. Sentiment Score
-Occidental Petroleum ,0.23,1.11,0.34,Transaction Volume wt. Sentiment Score
-Novo Nordisk ,3.79,0.8,1.3,Transaction Volume wt. Sentiment Score
-Shell ,2.64,0.6,2.19,Transaction Volume wt. Sentiment Score
-CrowdStrike,0.32,1.35,0.42,Transaction Volume wt. Sentiment Score
-Viatris ,0.05,15.0,3.81,Transaction Amount wt. Sentiment Score
-Uber,4.18,0.05,2.12,Transaction Amount wt. Sentiment Score
-Shaw Communications ,4.42,0.14,2.69,Transaction Amount wt. Sentiment Score
-Anheuser-Busch InBev ,0.19,4.8,2.1,Transaction Amount wt. Sentiment Score
-Stellantis ,4.62,0.34,2.43,Transaction Amount wt. Sentiment Score
-Sanofi,0.07,0.95,0.9,Transaction Amount wt. Sentiment Score
-Coinbase Global,1.05,12.0,3.75,Transaction Amount wt. Sentiment Score
-Lyft,0.38,4.1,1.19,Transaction Amount wt. Sentiment Score
-Deutsche Bank Aktiengesellschaft,0.08,0.75,0.56,Transaction Amount wt. Sentiment Score
-CVS Health ,8.64,0.94,3.85,Transaction Amount wt. Sentiment Score
-GLOBALFOUNDRIES ,1.65,15.0,4.99,Transaction Amount wt. Sentiment Score
-TransUnion,15.0,1.68,7.92,Transaction Amount wt. Sentiment Score
-Moderna,0.27,2.39,1.97,Transaction Amount wt. Sentiment Score
-eBay ,12.8,1.58,4.91,Transaction Amount wt. Sentiment Score
-Royal Caribbean Cruises ,14.4,2.0,5.44,Transaction Amount wt. Sentiment Score
-Cigna ,15.0,2.41,5.16,Transaction Amount wt. Sentiment Score
-Weibo ,0.3,0.05,0.18,Transaction Amount wt. Sentiment Score
-Occidental Petroleum ,0.23,1.35,0.4,Transaction Amount wt. Sentiment Score
-CME Group ,2.12,11.83,6.96,Transaction Amount wt. Sentiment Score
-McCormick & Company,0.21,1.17,1.08,Transaction Amount wt. Sentiment Score
-Okta,0.19,1.0,0.39,Transaction Amount wt. Sentiment Score
-Apollo Global Management,7.95,1.58,2.7,Transaction Amount wt. Sentiment Score
-Workday,1.05,5.25,2.1,Transaction Amount wt. Sentiment Score
-Royal Bank of Canada,0.26,1.2,0.76,Transaction Amount wt. Sentiment Score
-Palantir,0.53,2.33,0.75,Transaction Amount wt. Sentiment Score
+﻿name,Prev week,This week,Rolling,group
+Twilio ,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+Tuesday Morning ,15.0,1.67,11.67,Adjusted Price wt. Sentiment Score
+Howmet Aerospace ,15.0,1.67,11.67,Adjusted Price wt. Sentiment Score
+Henry Schein,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+Grifols,15.0,1.67,11.67,Adjusted Price wt. Sentiment Score
+Avis Budget Group,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+Upstart,15.0,1.67,11.67,Adjusted Price wt. Sentiment Score
+Cadence Design Systems,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+Ameren ,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+Fomento Económico Mexicano,15.0,1.67,11.67,Adjusted Price wt. Sentiment Score
+Five Below,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+Fifth Third Bancorp,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+West Pharmaceutical Services,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+Southern ,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+Western Alliance Bancorporation,15.0,1.67,11.67,Adjusted Price wt. Sentiment Score
+Targa Resources ,15.0,1.67,11.67,Adjusted Price wt. Sentiment Score
+Energy Transfer ,15.0,1.67,11.67,Adjusted Price wt. Sentiment Score
+Ecolab ,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+Constellation Energy ,15.0,1.67,11.67,Adjusted Price wt. Sentiment Score
+Ulta Beauty,1.67,15.0,5.0,Adjusted Price wt. Sentiment Score
+State Street ,1.67,11.8,5.04,Adjusted Price wt. Sentiment Score
+Target ,3.93,14.4,6.52,Adjusted Price wt. Sentiment Score
+GLOBALFOUNDRIES ,2.33,8.0,6.88,Adjusted Price wt. Sentiment Score
+Freeport-McMoRan ,13.7,4.1,11.3,Adjusted Price wt. Sentiment Score
+Ferguson ,4.67,15.0,5.75,Adjusted Price wt. Sentiment Score
+Grifols,15.0,1.67,11.67,Market Capitalization wt. Sentiment Score
+Ulta Beauty,1.67,15.0,5.0,Market Capitalization wt. Sentiment Score
+Twilio ,1.67,15.0,5.0,Market Capitalization wt. Sentiment Score
+Tuesday Morning ,15.0,1.67,11.67,Market Capitalization wt. Sentiment Score
+Teck Resources ,1.67,15.0,5.0,Market Capitalization wt. Sentiment Score
+Upstart,15.0,1.67,11.67,Market Capitalization wt. Sentiment Score
+Targa Resources ,15.0,1.67,11.67,Market Capitalization wt. Sentiment Score
+Garmin ,15.0,1.67,11.67,Market Capitalization wt. Sentiment Score
+Energy Transfer ,15.0,1.67,11.67,Market Capitalization wt. Sentiment Score
+Southern ,1.67,15.0,5.0,Market Capitalization wt. Sentiment Score
+Western Alliance Bancorporation,15.0,1.67,11.67,Market Capitalization wt. Sentiment Score
+Cadence Design Systems,1.67,15.0,5.0,Market Capitalization wt. Sentiment Score
+Check Point Software,15.0,1.67,11.67,Market Capitalization wt. Sentiment Score
+Ecolab ,1.67,15.0,5.0,Market Capitalization wt. Sentiment Score
+Roblox ,1.67,15.0,5.0,Market Capitalization wt. Sentiment Score
+Henry Schein,1.67,15.0,5.0,Market Capitalization wt. Sentiment Score
+Canadian Natural Resources ,1.67,15.0,5.0,Market Capitalization wt. Sentiment Score
+Kellogg ,3.0,15.0,6.68,Market Capitalization wt. Sentiment Score
+Pfizer ,7.7,1.67,7.16,Market Capitalization wt. Sentiment Score
+Target ,3.87,14.4,6.46,Market Capitalization wt. Sentiment Score
+TC Energy ,3.27,11.7,5.81,Market Capitalization wt. Sentiment Score
+Roku,4.27,15.0,5.65,Market Capitalization wt. Sentiment Score
+State Street ,4.53,15.0,6.43,Market Capitalization wt. Sentiment Score
+Abbott Laboratories,5.3,1.67,3.5,Market Capitalization wt. Sentiment Score
+Rivian Automotive,4.57,14.3,9.68,Market Capitalization wt. Sentiment Score
+TJX Companies,15.0,1.67,11.67,Transaction Volume wt. Sentiment Score
+Bio-Rad Laboratories,15.0,1.67,11.67,Transaction Volume wt. Sentiment Score
+Targa Resources ,15.0,1.67,11.67,Transaction Volume wt. Sentiment Score
+Ameren ,1.67,15.0,5.0,Transaction Volume wt. Sentiment Score
+Teck Resources ,1.67,15.0,5.0,Transaction Volume wt. Sentiment Score
+Tuesday Morning ,15.0,1.67,11.67,Transaction Volume wt. Sentiment Score
+Twilio ,1.67,15.0,5.0,Transaction Volume wt. Sentiment Score
+Roblox ,1.67,15.0,5.0,Transaction Volume wt. Sentiment Score
+Alcon ,15.0,1.67,11.67,Transaction Volume wt. Sentiment Score
+Crown Castle,15.0,1.67,11.67,Transaction Volume wt. Sentiment Score
+Biohaven Pharmaceutical,1.67,15.0,5.0,Transaction Volume wt. Sentiment Score
+Garmin ,15.0,1.67,11.67,Transaction Volume wt. Sentiment Score
+Deere,1.67,15.0,5.1,Transaction Volume wt. Sentiment Score
+West Pharmaceutical Services,1.67,15.0,5.0,Transaction Volume wt. Sentiment Score
+Cadence Design Systems,1.67,15.0,5.0,Transaction Volume wt. Sentiment Score
+Check Point Software,15.0,1.67,11.67,Transaction Volume wt. Sentiment Score
+Western Alliance Bancorporation,15.0,1.67,11.67,Transaction Volume wt. Sentiment Score
+Yum! Brands,15.0,1.83,6.97,Transaction Volume wt. Sentiment Score
+Shake Shack ,1.93,15.0,5.21,Transaction Volume wt. Sentiment Score
+NatWest Group ,1.67,12.88,8.22,Transaction Volume wt. Sentiment Score
+CNH Industrial ,15.0,1.97,9.04,Transaction Volume wt. Sentiment Score
+ZTO Express (Cayman) ,2.17,15.0,5.75,Transaction Volume wt. Sentiment Score
+Booking,11.0,1.67,10.67,Transaction Volume wt. Sentiment Score
+Roku,2.37,15.0,5.18,Transaction Volume wt. Sentiment Score
+Horizon Therapeutics Public Limited ,10.5,1.77,6.94,Transaction Volume wt. Sentiment Score
+Five Below,1.67,15.0,5.0,Transaction Amount wt. Sentiment Score
+Garmin ,15.0,1.67,11.67,Transaction Amount wt. Sentiment Score
+Ecolab ,1.67,15.0,5.0,Transaction Amount wt. Sentiment Score
+Cadence Design Systems,1.67,15.0,5.0,Transaction Amount wt. Sentiment Score
+Energy Transfer ,15.0,1.67,11.67,Transaction Amount wt. Sentiment Score
+Henry Schein,1.67,15.0,5.0,Transaction Amount wt. Sentiment Score
+Ameren ,1.67,15.0,5.0,Transaction Amount wt. Sentiment Score
+Targa Resources ,15.0,1.67,11.67,Transaction Amount wt. Sentiment Score
+Teck Resources ,1.67,15.0,5.0,Transaction Amount wt. Sentiment Score
+Roblox ,1.67,15.0,5.0,Transaction Amount wt. Sentiment Score
+Tuesday Morning ,15.0,1.67,11.67,Transaction Amount wt. Sentiment Score
+Twilio ,1.67,15.0,5.0,Transaction Amount wt. Sentiment Score
+Alcon ,15.0,1.67,11.67,Transaction Amount wt. Sentiment Score
+CNH Industrial ,15.0,1.67,9.88,Transaction Amount wt. Sentiment Score
+Grifols,15.0,1.67,11.67,Transaction Amount wt. Sentiment Score
+Bio-Rad Laboratories,15.0,1.67,11.67,Transaction Amount wt. Sentiment Score
+Constellation Energy ,15.0,1.67,11.67,Transaction Amount wt. Sentiment Score
+West Pharmaceutical Services,1.67,15.0,5.0,Transaction Amount wt. Sentiment Score
+Western Alliance Bancorporation,15.0,1.67,11.67,Transaction Amount wt. Sentiment Score
+Roku,2.17,15.0,5.13,Transaction Amount wt. Sentiment Score
+Petrobras,11.3,1.67,9.57,Transaction Amount wt. Sentiment Score
+Deere,2.3,15.0,5.32,Transaction Amount wt. Sentiment Score
+Shake Shack ,1.67,10.2,4.67,Transaction Amount wt. Sentiment Score
+Yum! Brands,15.0,2.47,6.69,Transaction Amount wt. Sentiment Score
+"Becton, Dickinson",12.5,2.07,8.02,Transaction Amount wt. Sentiment Score
+Black Knight,1.67,15.0,6.25,Social Score wt. Sentiment Score
+Canadian Imperial Bank of Commerce,15.0,1.67,9.17,Social Score wt. Sentiment Score
+Twilio ,1.67,15.0,5.0,Social Score wt. Sentiment Score
+Teck Resources ,1.67,15.0,5.0,Social Score wt. Sentiment Score
+Roblox ,1.67,15.0,5.0,Social Score wt. Sentiment Score
+Avis Budget Group,1.67,15.0,5.0,Social Score wt. Sentiment Score
+Bio-Rad Laboratories,15.0,1.67,11.67,Social Score wt. Sentiment Score
+Yum! Brands,15.0,1.67,7.15,Social Score wt. Sentiment Score
+Cadence Design Systems,1.67,15.0,5.0,Social Score wt. Sentiment Score
+Tuesday Morning ,15.0,1.67,11.67,Social Score wt. Sentiment Score
+Energy Transfer ,15.0,1.67,11.67,Social Score wt. Sentiment Score
+Dropbox,1.67,15.0,5.0,Social Score wt. Sentiment Score
+monday.com ,1.67,15.0,5.0,Social Score wt. Sentiment Score
+Baidu,15.0,1.83,7.41,Social Score wt. Sentiment Score
+Roku,2.0,15.0,5.08,Social Score wt. Sentiment Score
+"Becton, Dickinson",12.5,1.67,7.92,Social Score wt. Sentiment Score
+Expedia Group,15.0,2.17,5.13,Social Score wt. Sentiment Score
+Toyota Motor ,13.1,1.9,5.7,Social Score wt. Sentiment Score
+Marriott,2.33,15.0,5.82,Social Score wt. Sentiment Score
+T-Mobile US,10.32,1.67,8.47,Social Score wt. Sentiment Score
+eBay ,8.46,1.67,8.01,Social Score wt. Sentiment Score
+Shopify ,8.2,1.67,7.62,Social Score wt. Sentiment Score
+Cheniere Energey,2.03,9.0,6.69,Social Score wt. Sentiment Score
+Cisco Systems,3.43,15.0,6.94,Social Score wt. Sentiment Score
+Eli Lilly,2.45,10.4,5.54,Social Score wt. Sentiment Score
