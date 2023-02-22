@@ -1,11 +1,11 @@
 ﻿listed,Prev week,This week,Rolling,group
-NYSE,3.2,4.95,4.33,Adjusted Price wt. Sentiment Score
-NASDAQ,9.3,10.1,8.12,Adjusted Price wt. Sentiment Score
-NYSE,3.65,5.24,4.69,Market Capitalization wt. Sentiment Score
-NASDAQ,9.3,10.1,8.12,Market Capitalization wt. Sentiment Score
-NYSE,6.78,9.1,6.97,Transaction Volume wt. Sentiment Score
-NASDAQ,9.3,9.47,7.97,Transaction Volume wt. Sentiment Score
-NYSE,6.18,7.03,6.47,Transaction Amount wt. Sentiment Score
-NASDAQ,9.3,10.1,8.12,Transaction Amount wt. Sentiment Score
-NASDAQ,6.32,5.95,6.1,Social Score wt. Sentiment Score
-NYSE,6.9,9.1,7.06,Social Score wt. Sentiment Score
+NYSE,6.02,15.0,6.79,Adjusted Price wt. Sentiment Score
+NASDAQ,15.0,11.66,12.19,Adjusted Price wt. Sentiment Score
+NYSE,5.43,15.0,6.36,Market Capitalization wt. Sentiment Score
+NASDAQ,15.0,14.1,12.8,Market Capitalization wt. Sentiment Score
+NASDAQ,9.5,13.82,10.12,Transaction Volume wt. Sentiment Score
+NYSE,10.1,15.0,9.15,Transaction Volume wt. Sentiment Score
+NYSE,6.34,15.0,7.44,Transaction Amount wt. Sentiment Score
+NASDAQ,15.0,8.18,11.32,Transaction Amount wt. Sentiment Score
+NASDAQ,6.1,8.39,7.66,Social Score wt. Sentiment Score
+NYSE,10.1,15.0,9.15,Social Score wt. Sentiment Score
