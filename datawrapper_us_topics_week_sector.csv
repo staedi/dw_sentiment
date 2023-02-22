@@ -1,0 +1,126 @@
+﻿sector,Prev week,This week,Rolling,group
+Non-Metal Materials,2.95,15.0,7.75,Adjusted Price wt. Sentiment Score
+Electronics & Computers,3.83,11.7,7.02,Adjusted Price wt. Sentiment Score
+Banks,3.2,8.7,5.23,Adjusted Price wt. Sentiment Score
+Aerospace & Defense,4.5,12.14,8.5,Adjusted Price wt. Sentiment Score
+Semiconductors,3.2,7.47,5.14,Adjusted Price wt. Sentiment Score
+Industrials,6.55,15.0,6.69,Adjusted Price wt. Sentiment Score
+Professional & Business Services,6.3,13.8,7.5,Adjusted Price wt. Sentiment Score
+Technology,10.9,5.58,6.4,Adjusted Price wt. Sentiment Score
+Insurance,4.23,2.23,4.94,Adjusted Price wt. Sentiment Score
+Consumer Cyclical,3.7,6.84,5.97,Adjusted Price wt. Sentiment Score
+Financials,6.51,11.6,8.01,Adjusted Price wt. Sentiment Score
+Automotive,6.72,3.79,4.54,Adjusted Price wt. Sentiment Score
+Utilities,4.54,7.75,5.05,Adjusted Price wt. Sentiment Score
+Real Estate,7.85,13.3,7.78,Adjusted Price wt. Sentiment Score
+Pharmaceutical,4.42,2.86,3.19,Adjusted Price wt. Sentiment Score
+Leisure & Travel,9.2,13.9,6.87,Adjusted Price wt. Sentiment Score
+Gaming & Entertainment,3.15,4.53,4.04,Adjusted Price wt. Sentiment Score
+Medical & Healthcare,2.8,3.86,4.43,Adjusted Price wt. Sentiment Score
+Internet,15.0,11.4,10.86,Adjusted Price wt. Sentiment Score
+Shipping & Transportation,4.03,5.0,4.61,Adjusted Price wt. Sentiment Score
+Metals & Mining,4.19,5.14,4.26,Adjusted Price wt. Sentiment Score
+Biotechnology,5.83,4.83,7.73,Adjusted Price wt. Sentiment Score
+Food & Beverage,3.67,4.33,5.44,Adjusted Price wt. Sentiment Score
+Energy,2.33,2.65,4.34,Adjusted Price wt. Sentiment Score
+Retail,4.03,3.77,4.04,Adjusted Price wt. Sentiment Score
+Industrials,4.61,13.7,6.38,Market Capitalization wt. Sentiment Score
+Food & Beverage,3.78,10.0,5.68,Market Capitalization wt. Sentiment Score
+Electronics & Computers,4.52,11.7,7.75,Market Capitalization wt. Sentiment Score
+Aerospace & Defense,4.4,11.05,9.56,Market Capitalization wt. Sentiment Score
+Insurance,4.23,1.7,6.43,Market Capitalization wt. Sentiment Score
+Non-Metal Materials,2.5,5.3,4.35,Market Capitalization wt. Sentiment Score
+Pharmaceutical,7.55,3.74,6.44,Market Capitalization wt. Sentiment Score
+Consumer Cyclical,2.93,5.82,4.52,Market Capitalization wt. Sentiment Score
+Semiconductors,7.1,13.5,7.72,Market Capitalization wt. Sentiment Score
+Metals & Mining,5.65,10.46,8.02,Market Capitalization wt. Sentiment Score
+Leisure & Travel,3.13,5.5,3.18,Market Capitalization wt. Sentiment Score
+Financials,2.93,5.1,4.5,Market Capitalization wt. Sentiment Score
+Banks,3.2,5.51,5.02,Market Capitalization wt. Sentiment Score
+Automotive,12.24,7.2,8.24,Market Capitalization wt. Sentiment Score
+Telecommunications,8.65,14.7,11.32,Market Capitalization wt. Sentiment Score
+Technology,5.0,3.03,2.92,Market Capitalization wt. Sentiment Score
+Real Estate,3.8,5.76,4.88,Market Capitalization wt. Sentiment Score
+Medical & Healthcare,4.03,2.77,4.07,Market Capitalization wt. Sentiment Score
+Software,9.61,6.73,8.02,Market Capitalization wt. Sentiment Score
+Utilities,4.29,6.08,5.47,Market Capitalization wt. Sentiment Score
+Biotechnology,6.14,4.83,5.53,Market Capitalization wt. Sentiment Score
+Professional & Business Services,6.3,5.0,5.06,Market Capitalization wt. Sentiment Score
+Shipping & Transportation,7.17,8.74,7.98,Market Capitalization wt. Sentiment Score
+Gaming & Entertainment,8.3,9.79,6.94,Market Capitalization wt. Sentiment Score
+Internet,15.0,12.9,12.5,Market Capitalization wt. Sentiment Score
+Aerospace & Defense,2.1,8.88,6.22,Transaction Volume wt. Sentiment Score
+Leisure & Travel,3.07,10.9,5.66,Transaction Volume wt. Sentiment Score
+Insurance,6.86,2.33,6.96,Transaction Volume wt. Sentiment Score
+Electronics & Computers,3.79,9.13,6.75,Transaction Volume wt. Sentiment Score
+Medical & Healthcare,5.15,2.17,3.8,Transaction Volume wt. Sentiment Score
+Pharmaceutical,5.78,2.58,5.41,Transaction Volume wt. Sentiment Score
+Automotive,12.6,7.2,9.53,Transaction Volume wt. Sentiment Score
+Industrials,3.6,5.9,3.92,Transaction Volume wt. Sentiment Score
+Food & Beverage,6.36,10.0,6.5,Transaction Volume wt. Sentiment Score
+Biotechnology,3.1,4.83,3.9,Transaction Volume wt. Sentiment Score
+Gaming & Entertainment,8.3,12.24,8.15,Transaction Volume wt. Sentiment Score
+Real Estate,6.33,4.43,7.62,Transaction Volume wt. Sentiment Score
+Utilities,3.8,5.33,5.09,Transaction Volume wt. Sentiment Score
+Financials,3.7,5.0,4.78,Transaction Volume wt. Sentiment Score
+Semiconductors,6.98,9.0,7.82,Transaction Volume wt. Sentiment Score
+Internet,11.8,9.3,10.3,Transaction Volume wt. Sentiment Score
+Technology,5.1,4.03,3.22,Transaction Volume wt. Sentiment Score
+Software,11.0,9.28,7.43,Transaction Volume wt. Sentiment Score
+Non-Metal Materials,5.85,5.0,4.62,Transaction Volume wt. Sentiment Score
+Consumer Cyclical,5.65,4.92,5.71,Transaction Volume wt. Sentiment Score
+Retail,6.92,6.18,7.14,Transaction Volume wt. Sentiment Score
+Shipping & Transportation,9.15,8.21,8.5,Transaction Volume wt. Sentiment Score
+Professional & Business Services,4.49,5.0,4.74,Transaction Volume wt. Sentiment Score
+Metals & Mining,12.1,11.08,8.89,Transaction Volume wt. Sentiment Score
+Energy,2.01,1.91,2.88,Transaction Volume wt. Sentiment Score
+Industrials,3.6,14.0,6.63,Transaction Amount wt. Sentiment Score
+Telecommunications,3.93,14.2,8.84,Transaction Amount wt. Sentiment Score
+Aerospace & Defense,3.4,11.45,9.09,Transaction Amount wt. Sentiment Score
+Leisure & Travel,3.13,8.8,4.01,Transaction Amount wt. Sentiment Score
+Insurance,4.32,1.67,4.73,Transaction Amount wt. Sentiment Score
+Electronics & Computers,3.83,9.36,6.75,Transaction Amount wt. Sentiment Score
+Medical & Healthcare,5.26,2.17,4.82,Transaction Amount wt. Sentiment Score
+Pharmaceutical,4.76,2.01,4.74,Transaction Amount wt. Sentiment Score
+Software,8.73,4.25,6.35,Transaction Amount wt. Sentiment Score
+Non-Metal Materials,5.58,10.4,7.1,Transaction Amount wt. Sentiment Score
+Automotive,12.33,7.2,8.75,Transaction Amount wt. Sentiment Score
+Consumer Cyclical,3.05,4.8,4.59,Transaction Amount wt. Sentiment Score
+Financials,3.23,5.0,4.38,Transaction Amount wt. Sentiment Score
+Biotechnology,3.16,4.83,3.95,Transaction Amount wt. Sentiment Score
+Banks,1.9,2.9,3.13,Transaction Amount wt. Sentiment Score
+Semiconductors,8.45,12.87,9.07,Transaction Amount wt. Sentiment Score
+Utilities,3.85,5.33,5.22,Transaction Amount wt. Sentiment Score
+Technology,5.0,3.62,3.16,Transaction Amount wt. Sentiment Score
+Internet,11.7,9.2,10.22,Transaction Amount wt. Sentiment Score
+Professional & Business Services,6.3,7.9,6.22,Transaction Amount wt. Sentiment Score
+Gaming & Entertainment,5.81,6.98,5.64,Transaction Amount wt. Sentiment Score
+Shipping & Transportation,4.1,4.85,5.0,Transaction Amount wt. Sentiment Score
+Metals & Mining,11.37,9.75,8.4,Transaction Amount wt. Sentiment Score
+Real Estate,6.52,5.67,5.67,Transaction Amount wt. Sentiment Score
+Retail,6.46,5.8,6.82,Transaction Amount wt. Sentiment Score
+Professional & Business Services,2.1,15.0,5.3,Social Score wt. Sentiment Score
+Insurance,6.35,1.67,5.26,Social Score wt. Sentiment Score
+Shipping & Transportation,3.33,11.2,6.48,Social Score wt. Sentiment Score
+Aerospace & Defense,2.7,9.08,7.81,Social Score wt. Sentiment Score
+Automotive,6.62,2.4,6.36,Social Score wt. Sentiment Score
+Leisure & Travel,3.68,9.9,4.49,Social Score wt. Sentiment Score
+Electronics & Computers,2.78,6.79,5.29,Social Score wt. Sentiment Score
+Pharmaceutical,4.76,2.14,5.28,Social Score wt. Sentiment Score
+Non-Metal Materials,2.72,5.0,4.8,Social Score wt. Sentiment Score
+Real Estate,7.66,4.43,5.54,Social Score wt. Sentiment Score
+Consumer Cyclical,6.1,3.72,5.4,Social Score wt. Sentiment Score
+Internet,12.8,8.0,9.99,Social Score wt. Sentiment Score
+Semiconductors,4.74,7.38,6.84,Social Score wt. Sentiment Score
+Retail,11.4,7.46,8.7,Social Score wt. Sentiment Score
+Biotechnology,3.22,4.83,5.02,Social Score wt. Sentiment Score
+Banks,2.1,3.13,3.3,Social Score wt. Sentiment Score
+Technology,5.1,3.5,3.42,Social Score wt. Sentiment Score
+Industrials,3.6,5.1,3.49,Social Score wt. Sentiment Score
+Medical & Healthcare,2.86,2.17,3.42,Social Score wt. Sentiment Score
+Food & Beverage,7.4,9.33,7.65,Social Score wt. Sentiment Score
+Software,6.23,5.1,5.36,Social Score wt. Sentiment Score
+Telecommunications,11.8,10.1,9.38,Social Score wt. Sentiment Score
+Gaming & Entertainment,8.3,9.34,6.9,Social Score wt. Sentiment Score
+Metals & Mining,12.1,10.91,8.2,Social Score wt. Sentiment Score
+Energy,2.08,1.94,3.29,Social Score wt. Sentiment Score
